@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412601848519",
+    "project_id": "techmatedatabase",
+    "storage_bucket": "techmatedatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412601848519:android:ca0997855ab50c020aa4e2",
+        "android_client_info": {
+          "package_name": "com.example.techmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Y23PvUCis76vODkfYPRZie288gYDTK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
