@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Techmate" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_image</item> //splash screen background window
+        <item name="android:windowNoTitle">true</item> //removes title bar
+        <item name="android:windowFullscreen">true</item> //covers full screen
+        <item name="postSplashScreenTheme">@style/Theme.Techmate</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Techmate" parent="Base.Theme.Techmate" />
+</resources>
