@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Techmate">
         <activity
+            android:name=".activities.UserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".activities.Profile"
+            android:exported="false" />
+        <activity
+            android:name=".activities.profile"
+            android:exported="false" />
+        <activity
             android:name=".activities.Signup"
             android:exported="true" />
         <activity
